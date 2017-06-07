@@ -3,7 +3,7 @@
 ---
 
 1.解壓Jar檔
-> 將Jar檔案直接使用7-ZIP解壓縮成一個資料夾
+> 將Jar檔案直接使用7-ZIP解壓縮成一個資料夾，此時資料夾內的資料皆為組譯完的 .class 檔案
 
 2.取得原始檔
 > 使用反組譯程式 [JD-GUI](http://en.wikipedia.org/wiki/Java_Decompiler) 將要修改的Class另存為副檔名 .java 的文字檔案並修改。
