@@ -9,7 +9,7 @@
 > 使用反組譯程式 [JD-GUI](http://en.wikipedia.org/wiki/Java_Decompiler) 將要修改的Class另存為副檔名 .java 的文字檔案並修改。
 
 3.編譯原始檔
-> 使用 ***JDK*** 內的 ***javac***
+> 使用 ***JDK*** 內的 ***javac*** 將 .java 組譯回 .class
 
 > 語法:  javac xxx.java 
 
